@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+
+    <string name="question">Is Lagos the capital of Nigeria?</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="cheat_button">Cheat</string>
+    <string name="prev_button">Prev</string>
+
+    <string name="correct_toast">You are correct!</string>
+    <string name="incorrect_toast">You are wrong!</string>
+    <string name="warning_text">Please do not cheat!</string>
+    <string name="error_toast">Oop something went wrong! Please relaunch App</string>
+
+    <string name="USACapitalQuestion">Is Washington DC the capital of USa?</string>
+    <string name="UKCapitalQuestion">Is London the capital of UK?</string>
+    <string name="FranceCapitalQuestion">Is Paris the capital of France?</string>
+    <string name="NigeriaCapitalQuestion">Is Abuja the capital of Nigeria?</string>
+    <string name="ChinaCapitalQuestion">Is Beijings the capital of China?</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_cheat">CheatActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>

@@ -1,0 +1,19 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+    tools:context="com.example.stanleyopara.geoquiz.CheatActivity">
+
+    <TextView android:id="@+id/question_cheat_view" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:padding="24dp" />
+
+    <TextView android:layout_width="wrap_content" android:text="@string/warning_text"
+        android:layout_height="wrap_content" android:padding="24dp" />
+
+    <Button android:id="@+id/cheat_button"
+        android:text="@string/cheat_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
